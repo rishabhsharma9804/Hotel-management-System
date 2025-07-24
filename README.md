@@ -58,21 +58,23 @@ Each role sees a tailored dashboard and access level, ensuring data security and
 1. Clone the project:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Hotel-Management-System.git
-Import into your Java IDE (NetBeans / Eclipse / IntelliJ / VS Code)
-
-Setup MySQL database:
-
-Open MySQL and run hotel.sql to create the database and tables
-
-Update DB credentials in your code:
-
-Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_db", "root", "your_password");
-Compile and run the app.
 ```
-📸 Screenshots
+2. Import into your Java IDE (NetBeans / Eclipse / IntelliJ / VS Code)
+
+3. Setup MySQL database:
+
+   Open MySQL and run hotel.sql to create the database and tables
+
+4. Update DB credentials in your code:
+```bash
+Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_db", "root", "your_password");
+```
+5. Compile and run the app.
+
+### 📸 Screenshots
 Add UI screenshots here: login screen, manager dashboard, receptionist panel, etc.
 
-💡 Future Enhancements
+### 💡 Future Enhancements
 Email confirmation for bookings
 
 Role-based access levels with finer control
@@ -81,7 +83,7 @@ Room availability calendar view
 
 REST API or web version
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 Rishabh Sharma
 📧 rishabhsharma9804@gmail.com
 🌐 GitHub | LinkedIn
