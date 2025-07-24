@@ -84,9 +84,10 @@ Room availability calendar view
 REST API or web version
 
 ### 🧑‍💻 Author
-Rishabh Sharma
-📧 rishabhsharma9804@gmail.com
-🌐 GitHub | LinkedIn
+
+**Rishabh Sharma**  
+📧 rishabhsharma9804@gmail.com  
+🌐 [GitHub](https://github.com/rishabhsharma9804) | [LinkedIn](https://www.linkedin.com/in/rishabhsharma9804/)
 
 📄 License
 This project is licensed under the MIT License
