@@ -68,7 +68,7 @@ Update DB credentials in your code:
 
 Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_db", "root", "your_password");
 Compile and run the app.
-
+```
 📸 Screenshots
 Add UI screenshots here: login screen, manager dashboard, receptionist panel, etc.
 
